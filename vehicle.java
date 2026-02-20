@@ -1,3 +1,6 @@
+//COMBA LORNA WANJIKU
+//CT100/G/21509/24
+
 //Class Vehicle
 class Vehicle {
     protected String brand;
